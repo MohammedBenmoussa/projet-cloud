@@ -1,6 +1,6 @@
 # Cloud Computing : Lab 2
 
-## Team (in alphabetical order): 
+#### Team (in alphabetical order): 
 <ul>
   <li>Nassima BEN BAHTANE</li>
   <li>Mohammed BENMOUSSA</li>
